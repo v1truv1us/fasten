@@ -1,0 +1,17 @@
+# Global fallback
+* @v1truv1us
+
+# Zig source
+/src/ @v1truv1us
+
+# Build system
+build.zig @v1truv1us
+build.zig.zon @v1truv1us
+
+# CI/CD
+/.github/workflows/ @v1truv1us
+
+# Documentation
+*.md @v1truv1us
+SECURITY.md @v1truv1us
+CONTRIBUTING.md @v1truv1us
